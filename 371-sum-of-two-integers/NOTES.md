@@ -1,0 +1,1 @@
+* Just Using the __add__ method to sum of the two int value
