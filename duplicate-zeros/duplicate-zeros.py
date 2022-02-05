@@ -10,7 +10,6 @@ class Solution:
         #         newArr.append(val)
         # while len(arr) != len(newArr):
         #     newArr.pop()
-        # print(newArr, "<-------res")
         # return newArr
         val = 0
         while(val < len(arr)):
