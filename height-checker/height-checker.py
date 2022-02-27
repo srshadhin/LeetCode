@@ -7,6 +7,8 @@ class Solution:
         #     if heights[i] != sorted_list[i]:
         #         counter+=1
         # return counter
+        
+        # Solution 2
         for x, y in zip(heights, sorted_list):
             if x != y:
                 counter +=1
