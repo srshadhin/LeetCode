@@ -13,4 +13,3 @@ class Solution:
             res += word2[i+1:]
         
         return res
-            
