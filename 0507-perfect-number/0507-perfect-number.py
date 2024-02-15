@@ -9,6 +9,6 @@ class Solution:
             if num % i == 0:
                 sum_of += i
                 if i != num // i:  # Exclude perfect squares
-                    sum_of += num // i
-        
+                    sum_of += num // i     
         return sum_of == num
+    
