@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/srshadhin/LeetCode/tree/master/0890-lemonade-change) |
 | [2358-number-of-ways-to-split-array](https://github.com/srshadhin/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/srshadhin/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/srshadhin/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/srshadhin/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
