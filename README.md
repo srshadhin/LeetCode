@@ -11,6 +11,7 @@
 | [1524-string-matching-in-an-array](https://github.com/srshadhin/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/srshadhin/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/srshadhin/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/srshadhin/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/srshadhin/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/srshadhin/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/srshadhin/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -29,6 +30,7 @@
 | [0890-lemonade-change](https://github.com/srshadhin/LeetCode/tree/master/0890-lemonade-change) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srshadhin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/srshadhin/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/srshadhin/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/srshadhin/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/srshadhin/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/srshadhin/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -52,6 +54,7 @@
 | ------- |
 | [0541-reverse-string-ii](https://github.com/srshadhin/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/srshadhin/LeetCode/tree/master/0953-reverse-only-letters) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/srshadhin/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
 |  |
 | ------- |
