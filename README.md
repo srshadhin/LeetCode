@@ -9,6 +9,7 @@
 | [0290-word-pattern](https://github.com/srshadhin/LeetCode/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/srshadhin/LeetCode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/srshadhin/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0742-to-lower-case](https://github.com/srshadhin/LeetCode/tree/master/0742-to-lower-case) |
 | [0953-reverse-only-letters](https://github.com/srshadhin/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1524-string-matching-in-an-array](https://github.com/srshadhin/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/srshadhin/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
