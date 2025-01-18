@@ -34,6 +34,7 @@
 | [0500-keyboard-row](https://github.com/srshadhin/LeetCode/tree/master/0500-keyboard-row) |
 | [0890-lemonade-change](https://github.com/srshadhin/LeetCode/tree/master/0890-lemonade-change) |
 | [0965-unique-email-addresses](https://github.com/srshadhin/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1031-add-to-array-form-of-integer](https://github.com/srshadhin/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srshadhin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/srshadhin/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/srshadhin/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/srshadhin/LeetCode/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/srshadhin/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
