@@ -12,6 +12,7 @@
 | [0742-to-lower-case](https://github.com/srshadhin/LeetCode/tree/master/0742-to-lower-case) |
 | [0953-reverse-only-letters](https://github.com/srshadhin/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/srshadhin/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1205-defanging-an-ip-address](https://github.com/srshadhin/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1524-string-matching-in-an-array](https://github.com/srshadhin/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/srshadhin/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/srshadhin/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
