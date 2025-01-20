@@ -12,6 +12,7 @@
 | [0742-to-lower-case](https://github.com/srshadhin/LeetCode/tree/master/0742-to-lower-case) |
 | [0953-reverse-only-letters](https://github.com/srshadhin/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/srshadhin/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1044-find-common-characters](https://github.com/srshadhin/LeetCode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/srshadhin/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1524-string-matching-in-an-array](https://github.com/srshadhin/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/srshadhin/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -36,6 +37,7 @@
 | [0890-lemonade-change](https://github.com/srshadhin/LeetCode/tree/master/0890-lemonade-change) |
 | [0965-unique-email-addresses](https://github.com/srshadhin/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1031-add-to-array-form-of-integer](https://github.com/srshadhin/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1044-find-common-characters](https://github.com/srshadhin/LeetCode/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srshadhin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/srshadhin/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/srshadhin/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -50,6 +52,7 @@
 | [0290-word-pattern](https://github.com/srshadhin/LeetCode/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/srshadhin/LeetCode/tree/master/0500-keyboard-row) |
 | [0965-unique-email-addresses](https://github.com/srshadhin/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1044-find-common-characters](https://github.com/srshadhin/LeetCode/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srshadhin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/srshadhin/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
