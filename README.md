@@ -38,6 +38,7 @@
 | [0965-unique-email-addresses](https://github.com/srshadhin/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1031-add-to-array-form-of-integer](https://github.com/srshadhin/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/srshadhin/LeetCode/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/srshadhin/LeetCode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srshadhin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/srshadhin/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/srshadhin/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -53,6 +54,7 @@
 | [0500-keyboard-row](https://github.com/srshadhin/LeetCode/tree/master/0500-keyboard-row) |
 | [0965-unique-email-addresses](https://github.com/srshadhin/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/srshadhin/LeetCode/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/srshadhin/LeetCode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srshadhin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/srshadhin/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
@@ -90,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1217-relative-sort-array](https://github.com/srshadhin/LeetCode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srshadhin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
@@ -112,4 +115,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/srshadhin/LeetCode/tree/master/1013-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/srshadhin/LeetCode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
