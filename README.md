@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/srshadhin/LeetCode/tree/master/0137-single-number-ii) |
 | [0500-keyboard-row](https://github.com/srshadhin/LeetCode/tree/master/0500-keyboard-row) |
 | [0890-lemonade-change](https://github.com/srshadhin/LeetCode/tree/master/0890-lemonade-change) |
 | [0965-unique-email-addresses](https://github.com/srshadhin/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -60,6 +61,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/srshadhin/LeetCode/tree/master/0137-single-number-ii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/srshadhin/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Greedy
 |  |
