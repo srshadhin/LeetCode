@@ -103,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/srshadhin/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/srshadhin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/srshadhin/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 ## Dynamic Programming
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/srshadhin/LeetCode/tree/master/1217-relative-sort-array) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/srshadhin/LeetCode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
