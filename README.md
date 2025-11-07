@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/srshadhin/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0137-single-number-ii](https://github.com/srshadhin/LeetCode/tree/master/0137-single-number-ii) |
 | [0500-keyboard-row](https://github.com/srshadhin/LeetCode/tree/master/0500-keyboard-row) |
 | [0890-lemonade-change](https://github.com/srshadhin/LeetCode/tree/master/0890-lemonade-change) |
@@ -70,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/srshadhin/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0541-reverse-string-ii](https://github.com/srshadhin/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/srshadhin/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/srshadhin/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
