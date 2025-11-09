@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srshadhin/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srshadhin/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0137-single-number-ii](https://github.com/srshadhin/LeetCode/tree/master/0137-single-number-ii) |
 | [0500-keyboard-row](https://github.com/srshadhin/LeetCode/tree/master/0500-keyboard-row) |
@@ -52,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srshadhin/LeetCode/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/srshadhin/LeetCode/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/srshadhin/LeetCode/tree/master/0500-keyboard-row) |
 | [0965-unique-email-addresses](https://github.com/srshadhin/LeetCode/tree/master/0965-unique-email-addresses) |
